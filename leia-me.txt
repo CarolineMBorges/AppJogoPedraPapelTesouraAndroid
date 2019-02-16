@@ -1,0 +1,14 @@
+Este aplicativo é um jogo conhecido como "Pedra, papel e tesoura".
+O usuário escolhe manualmente uma opção e o aplicativo sorteia uma opção, após isso,
+é feita a comparação das duas escolhas e o aplicativo mostra se houve empate ou se o usuário perdeu ou ganhou.
+O aplicativo interage com o usuário através de imagens.
+
+empates:
+pedra / pedra
+tesoura / tesoura
+papel / papel
+
+vencedores:
+pedra ganha de tesoura
+tesoura ganha de papel
+papel ganha de pedra
